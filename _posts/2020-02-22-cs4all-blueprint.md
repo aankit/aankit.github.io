@@ -18,7 +18,7 @@ stack: Django, Vue.js, Google Drive API
 contribution:
 - Led over 30 co-design workshops with teachers, school leaders, community-based organizations, industry leaders, and education researchers to gather constraints and priorities for implementation and academic challenges to introducing computer science education as a new subject into schools by training teachers with no prior content knowledge.
 
-- Collected, analyzed, and grouped over 300 computer science learning objectives from teachers and community for grades K-12.
+- Collected, analyzed, and grouped over 300 computer science K-12 learning objectives from teachers and community.
 
 - Mapped community input to the Advanced Placement CS Princples and Scratch Computational Thinking frameworks.
 
