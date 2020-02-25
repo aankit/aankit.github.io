@@ -16,9 +16,13 @@ team:
 - Service design consultants, web designers, developers, copyeditors, videographers, and interns
 stack: Django, Vue.js, Google Drive API
 contribution:
-- The Blueprint was designed to be the academic and implementation guide for the Computer Science for All initiative for the over 1800 K-12 schools, dozens of institutes of higher education and community-based organizations serving 1.1. million students across over 1800 schools.
-
 - Led over 30 co-design workshops with teachers, school leaders, community-based organizations, industry leaders, and education researchers to gather constraints and priorities for implementation and academic challenges to introducing computer science education as a new subject into schools by training teachers with no prior content knowledge.
+
+- Collected, analyzed, and grouped over 300 computer science learning objectives from teachers and community for grades K-12.
+
+- Mapped community input to the Advanced Placement CS Princples and Scratch Computational Thinking frameworks.
+
+- Leveraged the work of the research community to develop CS Perspectives: Explorer, Creatore, Innovator and Citizen to provide teachers with a flexible learning progression that wasn't rigidly mapped to grades.
 
 - Developed, managed or contracted development of all written and video content.
 
