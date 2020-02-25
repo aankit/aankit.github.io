@@ -1,0 +1,5 @@
+name: Aankit Patel
+description: Portfolio
+author: Aankit Patel
+exclude: [ _design, README ]
+baseurl: "/"
