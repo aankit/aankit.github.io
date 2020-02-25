@@ -22,7 +22,7 @@ contribution:
 
 - Mapped community input to the Advanced Placement CS Princples and Scratch Computational Thinking frameworks.
 
-- Leveraged the work of the research community to develop CS Perspectives: Explorer, Creatore, Innovator and Citizen to provide teachers with a flexible learning progression that wasn't rigidly mapped to grades.
+- Leveraged the work of the research community to develop CS Perspectives - Explorer, Creatore, Innovator and Citizen - to provide teachers with a flexible learning progression that wasn't rigidly mapped to grades.
 
 - Developed, managed or contracted development of all written and video content.
 
