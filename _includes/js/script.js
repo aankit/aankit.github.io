@@ -6,14 +6,14 @@ $(document).ready(function(){
   bindPasswordDetect();
   fadePageIn();
 
-  BackgroundCheck.init({
-    targets: '.target',
-    images: '.post-wide-hero'
-  });
+  // BackgroundCheck.init({
+  //   targets: '.target',
+  //   images: '.post-wide-hero'
+  // });
 
-  setTimeout(function(){
-    BackgroundCheck.refresh();
-  },300);
+  // setTimeout(function(){
+  //   BackgroundCheck.refresh();
+  // },300);
 
   var $refreshButton = $('#refresh');
   var $results = $('#css_result');
