@@ -675,7 +675,13 @@ td {
   }
 
   .showcase img{
-    display: block;
+    margin: 10px auto;
+    width: 75%;
+  }
+  .grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5px;
     margin:  30px auto;
   }
 
@@ -751,6 +757,27 @@ td {
     padding-right: 20px;
     text-align: left;
     box-sizing: border-box;
+  }
+
+  div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: center;
+  width: 180px;
+  }
+
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
   }
 
   @media only screen and (min-width: 1024px) {
