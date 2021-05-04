@@ -1,5 +1,6 @@
 title: Aankit Patel - Portfolio
 description: Aankit Patel is a STEM and computer science education leader in NYC.
+summary: Aankit Patel is a STEM and computer science education leader in NYC.
 author: Aankit Patel
 exclude: [ _design, README ]
 baseurl: "/"
