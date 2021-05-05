@@ -4,3 +4,11 @@ summary: Aankit Patel is a STEM and computer science education leader in NYC.
 author: Aankit Patel
 exclude: [ _design, README ]
 baseurl: "/"
+
+# Build settings
+markdown: kramdown
+parse-block-html: true
+
+# Permalinks
+permalink:        pretty
+encoding:         UTF-8
