@@ -1,6 +1,4 @@
-# Jekyll Grid Portfolio Theme
-
-Minimal portfolio theme for jekyll
+My Personal Portfolio site, based on on a minimal portfolio theme for jekyll. I think you can still grab something similar ,,,
 
 #### Installation
 
@@ -11,8 +9,3 @@ bundle i
 bundle exec jekyll serve
 ```
 
-## Example
-
-http://jonathanmatthey.com
-
-![](https://i.imgur.com/HU27xIF.png)
