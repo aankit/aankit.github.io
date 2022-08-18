@@ -6,7 +6,7 @@ title:  "Centrality"
 worktype: "Procedural Poetry"
 date: 2014-5-01 12:00:00
 categories: project opensource
-role: 
+role: Graudate Student
 dates: 2014
 project_site_url: https://github.com/aankit/centrality
 project_site_slug: Github

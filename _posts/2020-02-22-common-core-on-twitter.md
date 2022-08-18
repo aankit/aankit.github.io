@@ -6,7 +6,7 @@ title:  "Analysis of Common Core Debate on Twitter"
 worktype: "Big Data Analysis"
 date: 2014-12-01 12:00:00
 categories: project opensource
-role: 
+role: Graduate Student
 dates: 2014
 project_site_url: https://medium.com/i-data/understanding-the-common-core-debate-using-twitter-data-57b5502acf7b
 project_site_slug: Medium Post
