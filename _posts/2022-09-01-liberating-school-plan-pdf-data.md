@@ -1,18 +1,17 @@
 ---
 layout: post-wide
-hero-bg-color: "#A9A091"
+hero-bg-color: "#FFF"
 uid: cep
 title:  "Liberating Data in NYC Schools Comprehensive Education Plans"
-worktype: "Web Scraping, PDF Mining, Database, Search Engine"
-date: 2012-9-01 12:00:00
+worktype: "Education Data Mining"
+date: 2022-09-01 12:00:00
 categories: project opensource
 role: Independent Researcher
 dates: 2022
 project_site_url: https://www.cell.com/heliyon/fulltext/S2405-8440(22)01805-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844022018059%3Fshowall%3Dtrue
 project_site_slug: Heliyon Journal
-company_description: Annually all NYC Department of Education schools, except for charters, bring together a team of folks to write Comprehensive Education Plans (CEPs) that describe their programming, staffing, budgeting, compliance, etc. in a range of different areas important to their superintendents and the city. These plans are made public as PDFs by the DOE - [learn more here](https://www.schools.nyc.gov/get-involved/families/school-leadership-team/comprehensive-education-plans).
-The time, effort, and specificity of the data in these plans have led me to believe it should be open (machine-readable) so it can be analyzed and used in analyses by researchers and practioners and potentially be made legible for current and prospective teachers, school leaders, parents, and anyone else that is impacted by our public schools. I partnered with folks at the Robin Hood Foundation to investigate the data I had liberated and its uses. Our findings we published in an open access journal and the code for the [web app](https://github.com/aankit/cep-access) and [intial scraping of a decade of CEPs](https://github.com/aankit/cep-analysis) is on Github.
-team:
+company_description: Leadership teams at NYC schools made up of administrators, teachers, and parent coordinators spend hours every year writing details plans for their schools. These Comprehensive Educatoin Plans (CEPs) are shared with superintendents as PDFs. They are made public by NYS law, but the format is and the wealth of data is inaccessible. I wanted to change that.
+team: Dr. Steven Azeka, Kenji Kanamaru
 stack: Bash, Python (PDFminer, Flask, SQLAlchemy), PostgresQL, ElasticSearch, 
 contribution:
 - I scraped all the PDFs, broken them into pages, converted them into searchable text, and stored them in a database so users could search any text and all instances would be returned by year with links to the human-readable PDFs.
